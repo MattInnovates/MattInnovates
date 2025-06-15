@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Matthew Galpin
 
-<!--
-**MattInnovates/MattInnovates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 I engineer systems that stand resilient in the face of chaos.
 
-Here are some ideas to get you started:
+I'm a developer focused on **precision**, **performance**, and **digital fortification**.  
+From embedded systems to fault-tolerant backends — if it needs to survive a storm, I’m probably already building it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ What I Build
+
+- 🕸️ Resilient web infrastructure & microservices
+- 🧱 Embedded & edge computing systems
+- 🗃️ Secure file distribution tools (CLI & P2P)
+- 🔒 Systems hardened against failure and intrusion
+- 🚧 In-development: `osrc` — a decentralized system for distributing large open-source projects
+
+---
+
+### 📈 GitHub Stats
+
+![MattInnovates's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattInnovates&show_icons=true&hide=stars&count_private=true&theme=dark)
+
+---
+
+### 📡 Contact & Network
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(Add your actual link)*
+- 🧠 [Personal Site](https://yourdomain.dev) *(optional)*
+- 🗂️ Projects coming soon...
+
+---
+
+_“Chaos is just unoptimized data.”_
