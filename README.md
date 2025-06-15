@@ -25,8 +25,7 @@ From embedded systems to fault-tolerant backends — if it needs to survive a st
 
 ### 📡 Contact & Network
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(Add your actual link)*
-- 🧠 [Personal Site](https://yourdomain.dev) *(optional)*
+- 🧠 [Personal Site](https://www.matthewgalpin.co.uk) *(optional)*
 - 🗂️ Projects coming soon...
 
 ---
